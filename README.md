@@ -1,6 +1,8 @@
 # **Netflix-Data-Analytics** 🎬📊  
 
-![Netflix Data Analysis](https://github.com/Pranavdixitofficial/Netflix-Data-Analytics/blob/main/Netflix-logo.png)  
+<p align="center">
+  <img src="https://github.com/Pranavdixitofficial/Netflix-Data-Analytics/blob/main/Netflix-logo.png" alt="Netflix Data Analysis" width="700" height="150">
+</p>
 
 This project analyzes Netflix’s content trends using **SQL, EDA, and Tableau**, uncovering insights on **genre popularity, country-wise content, Movies vs. TV Shows, and ratings**. It helps **streaming platforms optimize content strategy** and improve audience engagement.  
 

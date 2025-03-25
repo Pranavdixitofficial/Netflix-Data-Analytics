@@ -68,8 +68,3 @@ This project provides **data-driven insights** into Netflix’s content trends, 
 🔹 **Integrate machine learning for content recommendation**.  
 
 ---
-
-## **📌 How to Use This Repository**  
-1️⃣ **Clone the Repository:**  
-```bash
-git clone https://github.com/your-username/Netflix-Data-Analytics.git
